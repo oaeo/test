@@ -9,6 +9,9 @@ func printArray( arr [5]int)  {
 	}
 }
 
+func asd( arr [3]int){
+	fmt.Print("ASDA")
+}
 func main()  {
 	var arr1 [5]int
 	arr2 := [3]int{1 ,3,5}
